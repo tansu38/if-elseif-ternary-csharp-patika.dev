@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\bin\Debug\net7.0\if-elseif-ternary-csharp.exe
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\bin\Debug\net7.0\if-elseif-ternary-csharp.deps.json
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\bin\Debug\net7.0\if-elseif-ternary-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\bin\Debug\net7.0\if-elseif-ternary-csharp.dll
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\bin\Debug\net7.0\if-elseif-ternary-csharp.pdb
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.dll
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\refint\if-elseif-ternary-csharp.dll
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.pdb
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\if-elseif-ternary-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\if-elseif-ternary-csharp\obj\Debug\net7.0\ref\if-elseif-ternary-csharp.dll
